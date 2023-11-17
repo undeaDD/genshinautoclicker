@@ -1,0 +1,49 @@
+# Genshin Auto Explorer: config.yml
+
+# Global Keyboard Shortcuts
+toggleKey=3653    # Start / Stop Auto Explorer Bot
+copyKey=70        # Copy Current Mouse Location to Clipboard
+
+# Collection Characters and Rewards from all Missions
+p0=215,157    # Mondstadt
+p1=567,400    # First Socket
+p2=1716,1019  # Select Character
+p3=1178,763   # Confirm or Abort Mission
+p4=1059,337   # Second Slot
+p5=1716,1019  # Select Character
+p6=1178,763   # Confirm or Abort Mission
+p7=1170,650   # Third Slot
+p8=1716,1019  # Select Character
+p9=1178,763   # Confirm or Abort Mission
+p10=138,238   # Liyue 
+p11=730,315   # Fourth Slot
+p12=1716,1019 # Select Character
+p13=1178,763  # Confirm or Abort Mission
+p14=562,553   # Fifth Slot
+p15=1716,1019 # Select Character
+p16=1178,763  # Confirm or Abort Mission
+
+# Setting up all Missions for next Day
+p17=215,157   # Mondstadt
+p18=567,400   # First Socket
+p19=1796,678  # Set 20h
+p20=1716,1019 # Select Character
+p21=437,171   # Select Fishel
+p22=1059,337  # Second Slot
+p23=1796,678  # Set 20h
+p24=1716,1019 # Select Character
+p25=456,297   # Select Bennett
+p26=1170,650  # Third Slot
+p27=1796,678  # Set 20h
+p28=1716,1019 # Select Character
+p29=419,551   # Select Amber
+p30=138,238   # Liyue
+p31=730,315   # Fourth Slot
+p32=1796,678  # Set 20h
+p33=1716,1019 # Select Character
+p34=437,171   # Select Chongyun
+p35=562,553   # Fifth Slot
+p36=1796,678  # Set 20h
+p37=1716,1019 # Select Character
+p38=456,297   # Select Keqing
+p39=1843,44   # Close Mission UI
